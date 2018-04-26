@@ -1,14 +1,14 @@
 ---
 title: Maak een hoogste score
-hero_image: images / banner.png
+hero_image: images/banner.png
 description: Leer hoe je een hoogste score kunt bijhouden voor je Scratch-spel
-theme: rood
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: maker, ontwerp-0, programmeren-0, phys-comp-0, productie-0, community-0
-interests: "spellen"
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+interests: "games"
 technologies: "scratch"
 site_areas: ""
 steps:
