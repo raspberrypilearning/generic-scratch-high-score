@@ -1,6 +1,6 @@
 Het is leuk om een ​​hoogste score in een spel bij te houden.
 
-Stel dat je een variabele `score`hebt, die aan het begin van elk spel op nul wordt gezet.
+Stel dat je een variabele `score` hebt, die aan het begin van elk spel op nul wordt gezet.
 
 Voeg nog een variabele toe met de naam `hoogste score`.
 
