@@ -1,4 +1,3 @@
----
 title: Spremi najbolji rezultat
 hero_image: images/banner.png
 description: Saznaj kako spremiti najbolji rezultat u Scratch igri
@@ -10,6 +9,6 @@ copyedit: true
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: "games"
 technologies: "scratch"
-site_areas: ""
+site_areas:
 steps:
   - title: Prvi korak
