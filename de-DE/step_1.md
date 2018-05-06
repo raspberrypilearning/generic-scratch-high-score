@@ -1,11 +1,11 @@
-Es macht Spaß, einen höchsten Punktestand in einem Spiel zu verfolgen.
+Es macht Spaß, eine höchste Punktzahl in einem Spiel zu verfolgen.
 
-Nehmen wir an. du hast eine Variable namens `Punktezahl`, die zu Beginn von jedem Spiel auf Null gesetzt wird.
+Nehmen wir an. du hast eine Variable namens `Punktzahl`, die zu Beginn von jedem Spiel auf Null gesetzt wird.
 
-Füge eine weitere Variable mit dem Namen `Highscore` hinzu.
+Füge eine weitere Variable mit dem Namen `Höchste Punktzahl` hinzu.
 
 ![screenshot](images/make-high-score-variable.png)
 
-Am Ende des Spiels (oder wenn Sie den Highscore aktualisieren möchten) müssen Sie überprüfen, ob Sie einen neuen | 123_6_0_321 | Highscore | 123_7_1_321 |.
+Am Ende des Spiels (oder wenn du die höchste Punktzahl aktualisieren willst) musst du überprüfen, ob du eine neue `Höchste Punktzahl` hast.
 
 ![screenshot](images/check-for-high-score.png)
