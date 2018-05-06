@@ -1,4 +1,4 @@
-Es macht Spaß, einen hohen Punktestand in einem Spiel zu verfolgen.
+Es macht Spaß, einen höchsten Punktestand in einem Spiel zu verfolgen.
 
 Nehmen wir an. du hast eine Variable namens `Punktezahl`, die zu Beginn von jedem Spiel auf Null gesetzt wird.
 
