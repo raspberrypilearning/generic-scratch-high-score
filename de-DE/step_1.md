@@ -1,8 +1,8 @@
 Es macht Spaß, einen hohen Punktestand in einem Spiel zu verfolgen.
 
-Nehmen wir an, Sie haben eine Variable namens | 123_6_0_321 | score | 123_7_1_321 |, die zu Beginn jedes Spiels auf Null gesetzt wird.
+Nehmen wir an. du hast eine Variable namens `Punktezahl`, die zu Beginn von jedem Spiel auf Null gesetzt wird.
 
-Fügen Sie eine weitere Variable mit dem Namen | 123_6_0_321 | high score | 123_7_1_321 | hinzu.
+Füge eine weitere Variable mit dem Namen `Highscore` hinzu.
 
 ![Bildschirmfoto](images/make-high-score-variable.png)
 
