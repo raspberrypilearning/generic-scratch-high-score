@@ -4,8 +4,8 @@ Nehmen wir an. du hast eine Variable namens `Punktezahl`, die zu Beginn von jede
 
 Füge eine weitere Variable mit dem Namen `Highscore` hinzu.
 
-![Bildschirmfoto](images/make-high-score-variable.png)
+![screenshot](images/make-high-score-variable.png)
 
 Am Ende des Spiels (oder wenn Sie den Highscore aktualisieren möchten) müssen Sie überprüfen, ob Sie einen neuen | 123_6_0_321 | Highscore | 123_7_1_321 |.
 
-![Bildschirmfoto](images/check-for-high-score.png)
+![screenshot](images/check-for-high-score.png)
