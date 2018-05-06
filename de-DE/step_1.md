@@ -1,4 +1,4 @@
-Es macht Spaß, eine höchste Punktzahl in einem Spiel zu verfolgen.
+Es macht Spaß, die höchste Punktzahl in einem Spiel zu verfolgen.
 
 Nehmen wir an. du hast eine Variable namens `Punktzahl`, die zu Beginn von jedem Spiel auf Null gesetzt wird.
 
