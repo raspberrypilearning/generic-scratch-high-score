@@ -1,6 +1,6 @@
-Es divertido hacer un seguimiento de un puntaje alto en un juego.
+Es divertido hacer un seguimiento de la puntuación máxima en un juego.
 
-Supongamos que tiene una variable llamada | 123_6_0_321 | puntuación | 123_7_1_321 |, que se pone a cero al comienzo de cada juego.
+Supongamos que tienes una variable llamada `puntuación`, que es puesta a cero al inicio de cada juego.
 
 Agregue otra variable llamada | 123_6_0_321 | puntaje más alto | 123_7_1_321 |.
 
