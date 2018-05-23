@@ -1,11 +1,11 @@
-Sangat menyenangkan untuk melacak skor tinggi dalam permainan.
+Sangat menyenangkan untuk melacak skor tertinggi dalam permainan.
 
-Misalkan Anda memiliki variabel yang disebut skor ``, yang akan diset ke nol pada awal setiap permainan.
+Misalkan Kamu memiliki sebuah variabel yang disebut `skor`, yang akan diset ke nol pada awal setiap permainan.
 
-Tambahkan variabel lain yang disebut `high score`.
+Tambahkan variabel lain yang disebut `skor tertinggi`.
 
-![tangkapan layar](images/make-high-score-variable.png)
+![screenshot](images/make-high-score-variable.png)
 
-Di akhir permainan (atau kapan pun Anda ingin memperbarui skor tinggi), Anda harus memeriksa apakah Anda memiliki nilai tinggi `baru`.
+Di akhir permainan (atau kapan pun Kamu ingin memperbarui skor tertinggi), Kamu harus memeriksa apakah Kamu memiliki nilai tertinggi `baru`.
 
-![tangkapan layar](images/check-for-high-score.png)
+![screenshot](images/check-for-high-score.png)
