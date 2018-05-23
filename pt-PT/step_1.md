@@ -1,11 +1,11 @@
-É divertido acompanhar uma alta pontuação em um jogo.
+É divertido manter o registo da melhor pontuação num jogo.
 
-Digamos que você tenha uma variável chamada `de pontuação`, que é definido como zero no início de cada jogo.
+Digamos que tens uma variável chamada `pontuação`, que é definida como zero no início de cada jogo.
 
-Adicione outra variável chamada `alta pontuação`.
+Adiciona outra variável chamada `melhor pontuação`.
 
-![captura de tela](images/make-high-score-variable.png)
+![captura de ecrã](images/make-high-score-variable.png)
 
-No final do jogo (ou sempre que quiser atualizar a alta pontuação), você precisará verificar se você possui uma nova pontuação ``.
+No fim do jogo (ou sempre que quiseres atualizar a melhor pontuação), tens de verificar se fizeste uma nova `melhor pontuação`.
 
-![captura de tela](images/check-for-high-score.png)
+![captura de ecrã](images/check-for-high-score.png)
