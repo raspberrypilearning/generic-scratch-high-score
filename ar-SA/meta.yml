@@ -1,7 +1,7 @@
 ---
-title: Create a high score
+title: إنشاء أعلى نتيجة
 hero_image: images/banner.png
-description: Learn how to create a high score for your Scratch game
+description: تعلَّم كيف تنشئ أعلى نتيجة للعبة Scratch الخاصة بك
 theme: red
 duration: 1
 listed: false
@@ -13,4 +13,4 @@ technologies: "scratch"
 site_areas:
 steps:
   - 
-    title: Step one
+    title: الخطوة الأولى
