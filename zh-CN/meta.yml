@@ -1,16 +1,16 @@
 ---
-title: Create a high score
+title: 创建高分
 hero_image: images/banner.png
-description: Learn how to create a high score for your Scratch game
+description: 学习如何为你的 Scratch 游戏创建高分
 theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-interests: "games"
+interests: "游戏"
 technologies: "scratch"
 site_areas:
 steps:
   - 
-    title: Step one
+    title: 第一步
