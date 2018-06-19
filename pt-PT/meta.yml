@@ -1,7 +1,7 @@
 ---
-title: Cria um registo de melhor pontuação
-hero_image: imagens / banner.png
-description: Aprende a criar o registo de melhor pontuação para o teu jogo Scratch
+title: Criar um registo de melhor pontuação
+hero_image: images / banner.png
+description: Aprende a criar um registo de melhor pontuação para o teu jogo Scratch
 theme: vermelho
 duration: 1
 listed: false
@@ -13,4 +13,4 @@ technologies: "scratch"
 site_areas:
 steps:
   - 
-    title: Primeiro passo
+    title: Passo um
