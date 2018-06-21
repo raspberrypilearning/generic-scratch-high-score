@@ -1,4 +1,4 @@
-É divertido manter um registo da melhor pontuação num jogo.
+É divertido manter o registo da melhor pontuação num jogo.
 
 Digamos que tens uma variável chamada `pontuação`, que é definida como zero no início de cada jogo.
 
