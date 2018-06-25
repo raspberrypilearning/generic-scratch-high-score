@@ -1,7 +1,7 @@
 ---
 title: Créer un score élevé
 hero_image: images / banner.png
-description: Apprenez comment créer un score élevé pour votre jeu Scratch
+description: Apprend comment créer un score élevé pour ton jeu Scratch
 theme: rouge
 duration: 1
 listed: false
@@ -13,4 +13,4 @@ technologies: "scratch"
 site_areas:
 steps:
   - 
-    title: La première étape
+    title: Première étape
