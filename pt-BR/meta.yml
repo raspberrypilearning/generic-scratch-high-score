@@ -1,16 +1,16 @@
 ---
-title: Crie uma pontuação elevada
-hero_image: images / banner.png
-description: Saiba como criar uma pontuação elevada para o seu jogo Scratch
-theme: vermelho
+title: Crie um registro de melhor pontução
+hero_image: images/banner.png
+description: Aprende a criar o registo de melhor pontuação para o seu jogo no Scratch
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: criador, design-0, programação-0, phys-comp-0, manufacture-0, community-0
-interests: "jogos"
-technologies: "coçar, arranhão"
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+interests: "games"
+technologies: "scratch"
 site_areas:
 steps:
   - 
-    title: Passo um
+    title: Primeiro passo
