@@ -1,16 +1,16 @@
 ---
-title: צור ציון גבוה
-hero_image: תמונות / banner.png
-description: למד כיצד ליצור ציון גבוה למשחק Scratch שלך
-theme: אָדוֹם
+title: צור תוצאה
+hero_image: images/banner.png
+description: למד כיצד ליצור תוצאה למשחק Scratch שלך
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: יוצר, עיצוב 0, תכנות 0, phys-comp-0, ייצור -0, קהילה -0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: "משחקים"
-technologies: "שריטה"
+technologies: "scratch"
 site_areas:
 steps:
   - 
-    title: צעד ראשון
+    title: שלב ראשון
