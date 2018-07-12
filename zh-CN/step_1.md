@@ -1,11 +1,11 @@
-记录游戏中的高分很有趣。 
+在游戏中记录高分很有意思。
 
-让我们假设你有一个名为 `score`（分数）的变量，该变量在每局游戏开始时设为零。 
+假设你有一个叫做`得分`的变量，它在每个游戏开始的时候被设置为0。
 
-添加另一个名为 `high score`（高分）的变量。 
+增加另一个叫做`高分`的变量。
 
-![screenshot](images/make-high-score-variable.png)
+![截屏](images/make-high-score-variable.png)
 
-在游戏结束时（或每次你想更新高分时），你将需要查看你是否有了新的 `high score`（高分）。 
+在游戏结束时（或者当你想要更新最高分的时候），你需要检查你是否有一个新的`高分`
 
-![screenshot](images/check-for-high-score.png)
+![截屏](images/check-for-high-score.png)
