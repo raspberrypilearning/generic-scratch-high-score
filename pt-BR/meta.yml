@@ -1,7 +1,7 @@
 ---
-title: 创建高分
+title: Crie uma pontuação máxima
 hero_image: images/banner.png
-description: 学习如何为你的 Scratch 游戏创建高分
+description: Aprenda a criar o registo de pontuação máxima para o seu jogo no Scratch
 theme: red
 duration: 1
 listed: false
@@ -12,4 +12,4 @@ interests: "games"
 technologies: "scratch"
 site_areas:
 steps:
-  - title: 第一步
+  - title: Primeiro passo
