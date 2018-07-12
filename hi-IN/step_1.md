@@ -1,11 +1,11 @@
-It's fun to keep track of a high score in a game.
+गेम में उच्च स्कोर पर ध्यान देना मज़ेदार होता है।
 
-Let's say you have a variable called `score`, which gets set to zero at the beginning of each game.
+मान लें आपके पास `score` नामक वेरिएबल है, जो प्रत्येक गेम के शुरुआत में शून्य पर सेट हो जाता है।
 
-Add another variable called `high score`.
+`high score` नामक अन्य वेरिएबल जोड़ें।
 
-![screenshot](images/make-high-score-variable.png)
+![स्क्रीनशॉट](images/make-high-score-variable.png)
 
-At the end of the game (or whenever you want to update the high score), you'll need to check whether you have a new `high score`.
+गेम की समाप्ति पर (या जब भी आप उच्च स्कोर को अपडेट करना चाहें), आपको यह देखना होगा कि क्या आपने अपना नया `high score` बनाया की नहीं।
 
-![screenshot](images/check-for-high-score.png)
+![स्क्रीनशॉट](images/check-for-high-score.png)
