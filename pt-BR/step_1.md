@@ -1,6 +1,6 @@
-É divertido acompanhar uma alta pontuação em um jogo.
+É divertido acompanhar a pontuação máxima em um jogo.
 
-Digamos que você tenha uma variável chamada de `pontuação`, que é definido como zero no início de cada jogo.
+Digamos que você tenha uma variável chamada de `pontuação`, que é zerada no início de cada jogo.
 
 Adicione outra variável chamada `pontuação máxima`.
 
