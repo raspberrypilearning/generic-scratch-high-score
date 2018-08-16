@@ -1,11 +1,11 @@
-Fajnie jest śledzić wysoki wynik w grze.
+Fajnie jest śledzić najlepszy wynik w grze.
 
-Załóżmy, że masz zmienną o nazwie `wynik`, która zostanie ustawiona na zero na początku każdej gry.
+Załóżmy, że masz zmienną o nazwie `wynik`, która zostaje ustawiona na zero na początku każdej gry.
 
-Dodaj kolejną zmienną o nazwie `wysoki wynik`.
+Dodaj kolejną zmienną o nazwie `najlepszy wynik`.
 
 ![zrzut ekranu](images/make-high-score-variable.png)
 
-Pod koniec gry (lub gdy chcesz zaktualizować wysoki wynik), musisz sprawdzić, czy masz nowy `wysoki wynik`.
+Pod koniec gry (lub gdy chcesz zaktualizować najlepszy wynik), musisz sprawdzić, czy masz nowy `najlepszy wynik`.
 
 ![zrzut ekranu](images/check-for-high-score.png)
