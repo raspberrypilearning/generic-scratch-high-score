@@ -1,7 +1,7 @@
 ---
-title: उच्च स्कोर बनाएँ
+title: Utwórz najlepszy wynik
 hero_image: images/banner.png
-description: अपनी स्क्रैच गेम के लिए उच्च स्कोर बनाना सीखें
+description: Dowiedz się, jak stworzyć w Scratchu najlepszy wynik w grze
 theme: red
 duration: 1
 listed: false
@@ -12,4 +12,4 @@ interests: "games"
 technologies: "scratch"
 site_areas:
 steps:
-  - title: पहला चरण
+  - title: Krok pierwszy
