@@ -1,15 +1,15 @@
 ---
-title: Utwórz wysoki wynik
-hero_image: images / banner.png
-description: Dowiedz się, jak stworzyć najlepszy wynik w grze Scratch
-theme: czerwony
+title: Utwórz najlepszy wynik
+hero_image: images/banner.png
+description: Dowiedz się, jak stworzyć w Scratchu najlepszy wynik w grze
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: twórca, design-0, programowanie-0, phys-comp-0, production-0, community-0
-interests: "Gry"
-technologies: "zadraśnięcie"
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+interests: "games"
+technologies: "scratch"
 site_areas:
 steps:
   - 
