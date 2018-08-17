@@ -1,15 +1,15 @@
 ---
-title: Направите високу оцену
-hero_image: имагес / баннер.пнг
-description: Научите како да направите високу оцену за игру Сцратцх
-theme: црвена
+title: Направите најбољи резултат
+hero_image: images/banner.png
+description: Научите како да направите најбољи резултат за Скреч игру
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: творац, дизајн-0, програмирање-0, физ-цомп-0, производња-0, заједница-0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: "игре"
-technologies: "огреботина"
+technologies: "скреч"
 site_areas:
 steps:
   - 
