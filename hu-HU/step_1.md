@@ -1,11 +1,11 @@
-Szórakoztató, hogy nyomon kövesse a játékban elért magas pontszámot.
+Egy játékban szórakoztató kihívás megdönteni a rekordot.
 
-Tegyük fel, hogy van egy `értékű változó`, amely minden játék elején nullára áll.
+Tegyük fel, hogy van egy `pontszám` nevű változó, amely minden játék elején nullára áll.
 
-Adjon hozzá egy újabb változót, amelyet `magas pontszámnak hívnak`.
+Adj hozzá egy újabb változót, amelyet `rekord`-nak nevezel.
 
-![screenshot](images/make-high-score-variable.png)
+![képernyőkép](images/make-high-score-variable.png)
 
-A játék végén (vagy ha frissíteni szeretné a magas pontszámot), akkor ellenőriznie kell, hogy van-e új `magas pontszám`.
+A játék végén (vagy bármikor, amikor frissíteni szeretnéd a rekordot), ellenőrizned kell, hogy a pontszám nagyobb-e, mint a `rekord`.
 
-![screenshot](images/check-for-high-score.png)
+![képernyőkép](images/check-for-high-score.png)
