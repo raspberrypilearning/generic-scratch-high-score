@@ -1,15 +1,15 @@
 ---
-title: Hozzon létre magas pontszámot
-hero_image: images / banner.png
-description: Ismerje meg, hogyan lehet magas pontszámot létrehozni a Scratch játékhoz
-theme: piros
+title: Hozz létre rekord pontszámot
+hero_image: images/banner.png
+description: Tanuld meg, hogyan lehet rekord pontszámot létrehozni a Scratch játékodhoz
+theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: alkotó, design-0, programozás-0, fiz-comp-0, gyártás-0, community-0
-interests: "játékok"
-technologies: "karcolás"
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+interests: "games"
+technologies: "scratch"
 site_areas:
 steps:
   - 
