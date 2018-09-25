@@ -1,16 +1,16 @@
 ---
-title: Luo korkea pisteet
-hero_image: Kuvien / banner.png
-description: Opi luomaan korkea pistemäärä Scratch-pelille
+title: Luo korkeimmat pisteet
+hero_image: images/banner.png
+description: Opi luomaan korkein pistemäärä Scratch-pelille
 theme: punainen
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: luoja, design-0, ohjelmointi-0, phys-comp-0, valmistus-0, yhteisö-0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: "pelit"
-technologies: "naarmu"
+technologies: "scratch"
 site_areas:
 steps:
   - 
-    title: Ensimmäinen askel
+    title: Vaihe yksi
