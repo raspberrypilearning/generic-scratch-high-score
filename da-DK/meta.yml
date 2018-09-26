@@ -1,0 +1,15 @@
+---
+title: Lav en high score
+hero_image: images/banner.png
+description: Lær, hvordan du laver en high score for dit Scratch-spil
+theme: red
+duration: 1
+listed: false
+ingredient: true
+copyedit: true
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+interests: "games"
+technologies: "scratch"
+site_areas:
+steps:
+  - title: Trin et
